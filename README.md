@@ -1,2 +1,2 @@
 # From-MosideM
-I took them from MosideM repo (sat-geo)
+It's from MosideM Satellite-Geodesy
